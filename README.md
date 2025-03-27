@@ -1,5 +1,5 @@
 # Miguel Amores Ramos
-Tenho 18 anos e sou um Desenvolvedor Mais Voltado para o Back-End, mas estou estudando algumas coisas Front-End támbem. Desde que comecei minha jornada na programação, venho me aprofundando em tecnologias como HTML, CSS, C#, SQL, C++, PHP e GIT.
+Tenho 18 anos e sou um Desenvolvedor Mais Voltado para o Back-End, mas estou estudando algumas coisas Front-End támbem. Desde que comecei minha jornada na programação, venho me aprofundando em tecnologias como HTML, CSS, JAVASCRIPT, PYTHON, C#, SQL, C++, PHP e GIT.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" heigth="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30" height="30" />
